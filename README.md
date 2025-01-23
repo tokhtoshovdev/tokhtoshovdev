@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=301CFF&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BD+;I'm+Sardor+Tokhtoshov;I'm+Fronted+Developer)](https://git.io/typing-svg)
